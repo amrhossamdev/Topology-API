@@ -1,8 +1,8 @@
 # Topology-Api
 Topology API is an a API to provide the functionality to access, manage and store device topologies.
 # Langugage 
-Kotlin is a modern, statically-typed programming language that features both object-oriented and functional programming constructs
-#Functionality
+Used `Kotlin` : Kotlin is a modern, statically-typed programming language that features both object-oriented and functional programming constructs
+# Functionalities
 1. Read a topology from a given JSON file and store it in the memory. 
 2. Write a given topology from the memory to a JSON file. 
 3. Query about which topologies are currently in the memory. 
@@ -21,8 +21,8 @@ Kotlin is a modern, statically-typed programming language that features both obj
 Design is done using object orinted programming all tests passed and achived  
 
 - `Topology` class represent topology in the memory
--  We have two type of the devices resistor and nmos
 - `Device` is the parentclass and resistor & nmos child classes
+- We have two type of the devices resistor and nmos
 
 # Run project 
 First, clone the repo:
