@@ -1,10 +1,9 @@
 import helpers.TopologyApi
+import utils.ApiUtils
 
 fun main() {
+    //See Topology Api Test for better understanding @tests
     val api = TopologyApi()
-    api.readJson("src/main/assets/topology.json")
-    //api.deleteTopology("top1")
-    api.queryDevices("top1")
+    api.readJson(ApiUtils.filePath)
     api.writeJson("top1")
-
 }

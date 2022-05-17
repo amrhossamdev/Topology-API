@@ -21,9 +21,7 @@ class Resistor(T1: String, T2: String, type: String, id: String, defaultValue: D
     @param: json file (topologies json)
      */
     override fun readFromJson(jsonObject: JSONObject?) {
-        //TODO("REMOVE PRINT LINE")
-        println("our json $jsonObject")
-
+        //println("our json $jsonObject")
         val type = jsonObject?.get("type") as? String?
         val id = jsonObject?.get("id") as? String?
         //getting resistance values from resistance obj
