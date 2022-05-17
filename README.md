@@ -1,5 +1,5 @@
 # Topology-API
-Topology API is an a API to provide the functionality to access, manage and store device topologies.
+Topology API is an API to provide the functionality to access, manage and store device topologies.
 # Langugage 
 Used `Kotlin` : Kotlin is a modern, statically-typed programming language that features both object-oriented and functional programming constructs
 # Functionalities
