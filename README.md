@@ -27,7 +27,7 @@ Design is done using object orinted programming all tests passed and achived
 # Run project 
 First, clone the repo:
 
-git clone git@github.com:amrhossamdev/Topology-Api.git
+`git clone git@github.com:amrhossamdev/Topology-Api.git`
 
 # Run project in intellj
 open -> and import the project then select maven 
