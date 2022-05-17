@@ -31,9 +31,9 @@ First, clone the repo:
 
 # Run project in intellj
 open -> and import the project then select maven 
-#Testing 
+# Testing 
 Done using junit testing 
-You can test all functionalities in test -> then open `TopologyApiTest`
+You can test all functionalities in `test folders` -> then open `TopologyApiTest`
 
 ![Unit tests](https://github.com/amrhossamdev/Topology-Api/blob/master/testpassed.png)
 
