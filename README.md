@@ -22,6 +22,7 @@ Design is done using object orinted programming all tests passed and achived
 
 - `Topology` class represent topology in the memory
 - `Device` is the parentclass and resistor & nmos child classes
+- `nmos` and `resistor` classes holds write and convert json functions 
 - We have two type of the devices resistor and nmos
 
 # Run project 
